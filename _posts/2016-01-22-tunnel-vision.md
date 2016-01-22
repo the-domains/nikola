@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T09:40:40.847Z'
+datePublished: '2016-01-22T09:40:40.984Z'
 dateModified: '2016-01-22T09:40:38.289Z'
 title: Tunnel Vision
 author: []
