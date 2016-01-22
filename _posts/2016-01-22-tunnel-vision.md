@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T09:33:58.160Z'
-dateModified: '2016-01-22T09:33:44.009Z'
+datePublished: '2016-01-22T09:40:40.847Z'
+dateModified: '2016-01-22T09:40:38.289Z'
 title: Tunnel Vision
 author: []
+sourcePath: _posts/2016-01-22-tunnel-vision.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-tunnel-vision.md
-published: true
 url: tunnel-vision/index.html
 _type: Article
 
