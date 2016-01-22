@@ -1,7 +1,7 @@
 name: nikola
 favicon: null
-layout_spectrum: 0.8923047692514956
-typography_spectrum: 0.18150154524482787
+layout_spectrum: 0.49759
+typography_spectrum: 0.10048
 cta:
   domain: null
   bucket: null
